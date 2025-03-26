@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jemoji
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
+github:
+  is_project_page: false
+relative_links:
+  enabled: true
+  collections: true
+title: Японская виза в Белграде
+description: Инструкция по подаче на японскую визу для россиян в Сербии
+include:
+  - index.md
+  - files/index.md
