@@ -212,7 +212,7 @@ description: Инструкция по подаче на японскую виз
    - Проверьте правильность всех данных в визе
    - Процесс получения японской визы завершен!
 
-[files]: ./files/index.html
+[files]: ./files/
 
 [consular_email]: mailto:consular@s1.mofa.go.jp
 [embassy_email]: mailto:info@s1.mofa.go.jp

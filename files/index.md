@@ -11,7 +11,7 @@ description: Анкеты и примеры заполнения
 - [**План поездки**][chedule_of_stay]
 - [**Образец заполнения плана поездки**][schedule_of_stay_example]
 
-[:leftwards_arrow_with_hook: НАЗАД](./)
+[:leftwards_arrow_with_hook: НАЗАД](../)
 
 [application_form]: ./application_form.pdf
 [application_form_example]: ./application_form_example.pdf
